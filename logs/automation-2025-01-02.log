@@ -1,0 +1,62 @@
+11:07:14.366 [main] INFO  tests.LoginTest - ******Starting CheckoutTest**********
+11:07:15.627 [main] INFO  tests.LoginTest - ****** CheckoutTest Completed**********
+13:29:20.930 [main] INFO  tests.LoginTest - ******Starting LoginTest**********
+13:29:22.601 [main] INFO  tests.LoginTest - ****** LoginTest Completed**********
+13:29:22.602 [main] INFO  tests.LoginTest - ******Starting HomePageTest**********
+13:29:23.648 [main] INFO  tests.LoginTest - ****** HomePageTest Completed**********
+13:29:23.650 [main] INFO  tests.LoginTest - ******Starting CartTest**********
+13:29:24.407 [main] INFO  tests.LoginTest - ****** CartTest Completed**********
+13:29:24.407 [main] INFO  tests.LoginTest - ******Starting CheckoutTest**********
+13:29:26.763 [main] INFO  tests.LoginTest - ****** CheckoutTest Completed**********
+13:36:46.183 [main] INFO  tests.LoginTest - ******Starting LoginTest**********
+13:36:49.615 [main] INFO  tests.LoginTest - ****** LoginTest Completed**********
+13:36:49.616 [main] INFO  tests.LoginTest - ******Starting HomePageTest**********
+13:36:51.022 [main] INFO  tests.LoginTest - ****** HomePageTest Completed**********
+13:36:51.024 [main] INFO  tests.LoginTest - ******Starting CartTest**********
+13:36:51.679 [main] INFO  tests.LoginTest - ****** CartTest Completed**********
+13:36:51.680 [main] INFO  tests.LoginTest - ******Starting CheckoutTest**********
+13:36:53.881 [main] INFO  tests.LoginTest - ****** CheckoutTest Completed**********
+13:43:46.566 [main] INFO  tests.LoginTest - ******Starting LoginTest**********
+13:43:48.295 [main] INFO  tests.LoginTest - ****** LoginTest Completed**********
+13:43:48.295 [main] INFO  tests.LoginTest - ******Starting HomePageTest**********
+13:43:48.742 [main] INFO  tests.LoginTest - ****** HomePageTest Completed**********
+13:43:48.743 [main] INFO  tests.LoginTest - ******Starting CartTest**********
+13:43:49.244 [main] INFO  tests.LoginTest - ****** CartTest Completed**********
+13:43:49.244 [main] INFO  tests.LoginTest - ******Starting CheckoutTest**********
+13:43:53.146 [main] INFO  tests.LoginTest - ****** CheckoutTest Completed**********
+13:51:32.854 [main] INFO  tests.LoginTest - ******Starting LoginTest**********
+13:51:35.504 [main] INFO  tests.LoginTest - ****** LoginTest Completed**********
+13:51:35.505 [main] INFO  tests.LoginTest - ******Starting HomePageTest**********
+13:51:36.427 [main] INFO  tests.LoginTest - ****** HomePageTest Completed**********
+13:51:36.428 [main] INFO  tests.LoginTest - ******Starting CartTest**********
+13:51:37.101 [main] INFO  tests.LoginTest - ****** CartTest Completed**********
+13:51:37.102 [main] INFO  tests.LoginTest - ******Starting CheckoutTest**********
+13:51:39.591 [main] INFO  tests.LoginTest - ****** CheckoutTest Completed**********
+13:53:21.521 [main] INFO  tests.LoginTest - ******Starting LoginTest**********
+13:53:23.545 [main] INFO  tests.LoginTest - ****** LoginTest Completed**********
+13:53:23.545 [main] INFO  tests.LoginTest - ******Starting HomePageTest**********
+13:53:33.652 [main] ERROR tests.LoginTest - Test failed..
+21:30:31.558 [main] INFO  tests.LoginTest - ******Starting LoginTest**********
+21:30:33.087 [main] INFO  tests.LoginTest - ****** LoginTest Completed**********
+21:30:33.087 [main] INFO  tests.LoginTest - ******Starting HomePageTest**********
+21:30:33.573 [main] INFO  tests.LoginTest - ****** HomePageTest Completed**********
+21:30:33.574 [main] INFO  tests.LoginTest - ******Starting CartTest**********
+21:30:33.983 [main] INFO  tests.LoginTest - ****** CartTest Completed**********
+21:30:33.984 [main] INFO  tests.LoginTest - ******Starting CheckoutTest**********
+21:30:35.691 [main] INFO  tests.LoginTest - ****** CheckoutTest Completed**********
+10:28:05.399 [main] INFO  tests.LoginTest - ******Starting LoginTest**********
+10:28:05.448 [main] ERROR tests.LoginTest - Test failed..
+10:32:03.614 [main] INFO  tests.LoginTest - ******Starting LoginTest**********
+10:32:03.703 [main] ERROR tests.LoginTest - Test failed..
+10:32:55.968 [main] INFO  tests.LoginTest - ******Starting LoginTest**********
+10:32:57.561 [main] INFO  tests.LoginTest - ****** LoginTest Completed**********
+10:32:57.562 [main] INFO  tests.LoginTest - ******Starting HomePageTest**********
+10:32:58.380 [main] INFO  tests.LoginTest - ****** HomePageTest Completed**********
+10:32:58.381 [main] INFO  tests.LoginTest - ******Starting CartTest**********
+10:32:58.679 [main] INFO  tests.LoginTest - ****** CartTest Completed**********
+10:32:58.680 [main] INFO  tests.LoginTest - ******Starting CheckoutTest**********
+10:33:00.347 [main] INFO  tests.LoginTest - ****** CheckoutTest Completed**********
+12:45:47.790 [main] INFO  tests.LoginTest - ******Starting LoginTest**********
+12:45:49.707 [main] INFO  tests.LoginTest - ****** LoginTest Completed**********
+12:45:49.709 [main] INFO  tests.LoginTest - ******Starting HomePageTest**********
+12:45:50.789 [main] INFO  tests.LoginTest - ****** HomePageTest Completed**********

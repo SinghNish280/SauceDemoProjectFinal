@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="utils.ExtentReportManager1"/>
+  </listeners>
+  <test name="Test(failed)">
+    <groups>
+      <run>
+        <include name="Master"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="tests.HomeTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="testAddItemToCart"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- tests.HomeTest -->
+      <class name="tests.LoginTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="loginTest"/>
+        </methods>
+      </class> <!-- tests.LoginTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
